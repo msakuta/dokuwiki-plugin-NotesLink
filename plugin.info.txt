@@ -1,0 +1,7 @@
+base   noteslink
+author Masahiro Sakuta
+email  masahiro.sakuta@gmail.com
+date   2015-09-10
+name   Notes Link plugin
+desc   Add links to IBM (Lotus) Notes URLs
+url    https://www.dokuwiki.org/plugin:noteslink
